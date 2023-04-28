@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/973068674917347429/1099765638978883637/Animo.jpg?size=56)
+![](https://cdn.discordapp.com/attachments/1095016092528808037/1101508725392547870/image.png)
 
 
 # Created by Animo?? | https://github.com/ANiMOOOOO
@@ -18,12 +18,16 @@ The automation of sending messages to ngl.link users is a violation of the terms
 This was written as a proof of concept to show that the automation is possible. The author of this code is released of any liabilities which your usage may entail.
 
 ## Preview
+
 CLICK THE IMAGE TO PLAY!
-[Animo??](https://cdn.discordapp.com/attachments/973068674917347429/1099765638978883637/Animo.jpg?size=256)
+![CLICK](https://cdn.discordapp.com/attachments/1095016092528808037/1101508725392547870/image.png)
 
 
 ## Contact
+
 Discord Username : `!! ~ Λnimo#7929` | Dev ID : `614415863839326221`
+
+[Animo??](https://cdn.discordapp.com/attachments/973068674917347429/1099765638978883637/Animo.jpg)
 
 [GITHUB](https://github.com/ANiMOOOOO)
 
