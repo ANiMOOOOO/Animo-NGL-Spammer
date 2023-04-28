@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/973068674917347429/1099765638978883637/Animo.jpg)
+![](https://cdn.discordapp.com/attachments/973068674917347429/1099765638978883637/Animo.jpg?size=256)
 
 
 # Created by Animo?? | https://github.com/ANiMOOOOO
@@ -19,7 +19,7 @@ This was written as a proof of concept to show that the automation is possible. 
 
 ## Preview
 CLICK THE IMAGE TO PLAY!
-![Animo??](https://cdn.discordapp.com/attachments/973068674917347429/1099765638978883637/Animo.jpg)
+[Animo??](https://cdn.discordapp.com/attachments/973068674917347429/1099765638978883637/Animo.jpg?size=256)
 
 
 ## Contact
