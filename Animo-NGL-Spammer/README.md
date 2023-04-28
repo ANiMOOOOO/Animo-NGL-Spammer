@@ -20,7 +20,7 @@ This was written as a proof of concept to show that the automation is possible. 
 ## Preview
 
 CLICK THE IMAGE TO PLAY!
-![CLICK](https://cdn.discordapp.com/attachments/1095016092528808037/1101508725392547870/image.png)
+[CLICK](https://cdn.discordapp.com/attachments/1095016092528808037/1101508725392547870/image.png)
 
 
 ## Contact
