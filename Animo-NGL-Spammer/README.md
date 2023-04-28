@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/973068674917347429/1099765638978883637/Animo.jpg?size=256)
+![](https://cdn.discordapp.com/attachments/973068674917347429/1099765638978883637/Animo.jpg?size=56)
 
 
 # Created by Animo?? | https://github.com/ANiMOOOOO
